@@ -1,3 +1,9 @@
+osso-af-utils (2.13-1+thumb0) unstable; urgency=low
+
+  * Thumb2 compile
+
+ -- Ivaylo Dimitrov <freemangordon@abv.bg>  Mon, 30 Dec 2013 07:59:33 +0200
+
 osso-af-utils (2.13-1) unstable; urgency=low
 
   * Do not call getbootstate, it can increase reboot count which causing MALF
